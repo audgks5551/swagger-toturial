@@ -1,0 +1,3 @@
+springdoc:
+  api-docs:
+    path: /posts/api-docs
